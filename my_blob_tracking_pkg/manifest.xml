@@ -1,0 +1,15 @@
+<package>
+  <description brief="my_blob_tracking_pkg">
+
+     my_blob_tracking_pkg
+
+  </description>
+  <author>user</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/my_blob_tracking_pkg</url>
+  <depend package="rospy"/>
+
+</package>
+
+
